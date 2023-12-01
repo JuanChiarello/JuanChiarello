@@ -24,3 +24,9 @@
     <li>Violinista en la Filarmónica UTN</li>
     <li>Ilustrador digital</li>
 </ul>
+
+## Contacto
+<p>Telefono: +54 011 66463680</p>
+<p>LinkedIn: <a href='https://www.linkedin.com/in/juan-chiarello/'> linkedin.com/in/juan-chiarello/ </a></p>
+<p>Gmail: juanchiarello@gmail.com </p> 
+
