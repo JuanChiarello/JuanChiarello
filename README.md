@@ -1,16 +1,26 @@
-### Hi there 👋
+# ¡Hola! Soy Juan Chiarello👋
 
-<!--
-**JuanChiarello/JuanChiarello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sobre mi
+<p> Comprometido con el aprendizaje y desarrollo en el mundo del Front-End, poseo habilidades sólidas en HTML, CSS y JavaScript. En constante búsqueda de oportunidades para aplicar y ampliar mis conocimientos en el desarrollo web, mientras equilibro mi compromiso académico y laboral.¡Con ganas de contribuir al crecimiento profesional y seguir aprendiendo nuevas experiencias! </p>
 
-Here are some ideas to get you started:
+## Habilidades
+<ul> 
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>Javascript</li>
+    <li>Git | Github</li>
+    <li>React</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Herramientas
+<ul> 
+    <li>Adobe Illustrator</li>
+    <li>Adobe Photoshop</li>
+    <li>PAquete Office</li>
+</ul>
+
+## Pasatiempos
+<ul> 
+    <li>Violinista en la Filarmónica UTN</li>
+    <li>Ilustrador digital</li>
+</ul>
