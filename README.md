@@ -1,4 +1,4 @@
-# ¡Hola! Soy Juan Chiarello👋
+# ¡Hola!👋 Soy Juan Chiarello
 
 # Sobre mi
 <p> Comprometido con el aprendizaje y desarrollo en el mundo del Front-End, poseo habilidades sólidas en HTML, CSS y JavaScript. En constante búsqueda de oportunidades para aplicar y ampliar mis conocimientos en el desarrollo web, mientras equilibro mi compromiso académico y laboral.¡Con ganas de contribuir al crecimiento profesional y seguir aprendiendo nuevas experiencias! </p>
@@ -16,7 +16,7 @@
 <ul> 
     <li>Adobe Illustrator</li>
     <li>Adobe Photoshop</li>
-    <li>PAquete Office</li>
+    <li>Paquete Office</li>
 </ul>
 
 ## Pasatiempos
